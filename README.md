@@ -1,12 +1,11 @@
 [ja](./README.ja.md)
 
-# {{PROJECT_NAME}}
+# ElasticLunr.Japanese
 
 Use ElasticLunr-rs.
 
 # Requirement
 
-* <time datetime="{{Created %Y-%m-%dT%H:%M:%S%z}}">{{Created %Y-%m-%d}}</time>
 * [Raspbierry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 4 Model B Rev 1.2
 * [Raspberry Pi OS](https://ja.wikipedia.org/wiki/Raspbian) buster 10.0 2020-08-20 <small>[setup](http://ytyaru.hatenablog.com/entry/2020/10/06/111111)</small>
 * rustc 1.53.0 (53cb7b09b 2021-06-17)
